@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+tqdm
+ollama
+faiss-cpu
+numpy
